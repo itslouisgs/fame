@@ -7,7 +7,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'sans-serif';
+  font-family: 'Segoe UI';
 }
 html {
   scroll-behavior: smooth;
@@ -143,7 +143,6 @@ nav {
 }
 .home h1 {
   font-size: 150px;
-  font-family: sans-serif;
   font-style: italic;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #b800e6, 0 0 20px #b800e6,
     0 0 25px #b800e6, 0 0 30px #b800e6, 0 0 35px #b800e6;
@@ -164,7 +163,6 @@ nav {
 
 .home h2 {
   font-size: 24px;
-  font-family: sans-serif;
   letter-spacing: 2px;
   cursor: text;
 }
@@ -600,8 +598,9 @@ nav {
 
 /* buat responsif */
 @media(max-width: 1020px){
-  .{
+  *{
     width: auto;
+    font-family: 'Arial';
   }
 
   nav img{
@@ -616,6 +615,7 @@ nav {
 
   .logo a{
     display: none;
+    font-family: 'sans-serif';
   }
 
   .navbar li{
@@ -919,7 +919,6 @@ nav {
     opacity: 0;
     transform: rotateX(-10deg);
   }
-
   to {
     opacity: 1;
     transform: rotateX(0);
