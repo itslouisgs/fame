@@ -848,6 +848,7 @@ nav {
   }
 
   .leftFooterContainer h1{
+    margin-top: 1em;
     font-size: 20px;
   }
 
@@ -880,7 +881,7 @@ nav {
   }
 
   .contactPerson{
-    display: flex;
+    display: block;
   }
   
   .contact1{
@@ -918,6 +919,16 @@ nav {
   .copyright p{
     padding-top: 0.7em;
     font-size: 14px;
+  }
+
+  @media(min-width: 601px){
+      .contactPerson{
+        display: flex;
+      }
+
+      .copyright{
+        padding-top: 1em;
+      }
   }
 }
 
