@@ -180,6 +180,7 @@ nav {
   z-index: -1;
   cursor: pointer;
   width: 9em;
+  background-color: white;
 }
 
 .home button:hover{
@@ -690,7 +691,6 @@ nav {
   .home button{
     margin-top: 2em;
     font-size: 16px;
-    background-color: white;
   }
 
   .home button:hover{
