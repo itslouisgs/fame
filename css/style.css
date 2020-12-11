@@ -315,12 +315,12 @@ nav {
 }
 
 .knowledgeIcon{
-  max-height: 6em;
+/*   max-height: 6em; */
   width: 26%;
 }
 
 .experienceIcon{
-  max-height: 6em;
+/*   max-height: 6em; */
   width: 35%;
 }
 
