@@ -925,10 +925,6 @@ nav {
       .contactPerson{
         display: flex;
       }
-
-      .copyright{
-        padding-top: 1em;
-      }
   }
 }
 
