@@ -600,8 +600,8 @@ nav {
 
 /* buat responsif */
 @media(max-width: 1020px){
-  .{
-    width: auto;
+  *{
+    font-family: 'sans-serif';
   }
 
   nav img{
