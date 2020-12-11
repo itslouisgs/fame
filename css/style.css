@@ -838,7 +838,7 @@ nav {
   }
 
   .footer{
-    height: 36.5em;
+    height: 40em;
     padding: 25px 10px;
   }
 
@@ -924,6 +924,10 @@ nav {
   @media(min-width: 601px){
       .contactPerson{
         display: flex;
+      }
+
+      .footer{
+        height: 36.5em;
       }
   }
 }
