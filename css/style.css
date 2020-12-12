@@ -808,7 +808,11 @@ nav {
   .faq{
     display: block;
   }
-
+  
+  .faq h1{
+    font-size: 32px;
+  }
+    
   .faq p{
     font-size: 18px;
   }
