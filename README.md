@@ -1,6 +1,4 @@
-# Project FAME Workshop
-Project ini dibuat oleh kelompok 3 Divisi Web Development ketika sedang internship.
+# FAME Workshop
+FAME (Futuristic Game Development) Workshop is a game development workshop held by HIMTI Programming Class Division.
 
-
-# Link Website
 https://louisgtavo21.github.io/fame/
